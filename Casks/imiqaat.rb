@@ -1,6 +1,6 @@
 cask "imiqaat" do
-  version "0.7.0"
-  sha256 "60d9e15ec68181a5f2f1fd6c8d52dcf2c15b0c55e547eb171d473ba6767135f8"
+  version "0.8.0"
+  sha256 "da91f1fcc2a6c174868129f48583d758d161e9d164d5fcd32a4eb3d71387e0a6"
 
   url "https://github.com/u-sm/imiqaat/releases/download/v#{version}/iMiqaat-#{version}.dmg"
   name "iMiqaat"
